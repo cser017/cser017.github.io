@@ -175,6 +175,8 @@ table, th, td {
 }
 
 .copyright{
+    color: cornflowerblue;
+    bottom: 2px;
     float: left;
     position: absolute;
 }
