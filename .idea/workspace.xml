@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b15afce-673c-4a10-b3c9-19d6eb8e2bd1" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/logo.png" afterPath="$PROJECT_DIR$/image/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1) Introduction.html" afterPath="$PROJECT_DIR$/1) Introduction.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2) Projects.html" afterPath="$PROJECT_DIR$/2) Projects.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3) Work Experience.html" afterPath="$PROJECT_DIR$/3) Work Experience.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4) Skills.html" afterPath="$PROJECT_DIR$/4) Skills.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5) Honors.html" afterPath="$PROJECT_DIR$/5) Honors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6) Courses.html" afterPath="$PROJECT_DIR$/6) Courses.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7) Self.html" afterPath="$PROJECT_DIR$/7) Self.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/8) Interests.html" afterPath="$PROJECT_DIR$/8) Interests.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/9) Profile.html" afterPath="$PROJECT_DIR$/9) Profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="cser017.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="49" column="71" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="71" />
+            <state relative-caret-position="528">
+              <caret line="178" column="13" selection-start-line="178" selection-start-column="13" selection-end-line="178" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -107,8 +95,8 @@
       <file leaf-file-name="7) Self.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7) Self.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="38" column="69" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
+            <state relative-caret-position="261">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -126,7 +114,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9) Profile.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="9) Profile.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/9) Profile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -152,9 +140,9 @@
         <option value="$PROJECT_DIR$/4) Skills.html" />
         <option value="$PROJECT_DIR$/5) Honors.html" />
         <option value="$PROJECT_DIR$/6) Courses.html" />
-        <option value="$PROJECT_DIR$/7) Self.html" />
         <option value="$PROJECT_DIR$/8) Interests.html" />
         <option value="$PROJECT_DIR$/9) Profile.html" />
+        <option value="$PROJECT_DIR$/7) Self.html" />
       </list>
     </option>
   </component>
@@ -257,15 +245,15 @@
       <workItem from="1476279921258" duration="198000" />
       <workItem from="1476283166978" duration="136000" />
       <workItem from="1476290043729" duration="712000" />
-      <workItem from="1476297117191" duration="775000" />
+      <workItem from="1476297117191" duration="955000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1921000" />
+    <option name="totallyTimeSpent" value="2101000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="74" y="23" width="1419" height="781" extended-state="1" />
+    <frame x="74" y="23" width="1419" height="781" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26797387" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -401,14 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="178" column="13" selection-start-line="178" selection-start-column="13" selection-end-line="178" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -465,16 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7) Self.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="38" column="69" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
-          <folding>
-            <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8) Interests.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -487,6 +457,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7) Self.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="178" column="13" selection-start-line="178" selection-start-column="13" selection-end-line="178" selection-end-column="13" />
           <folding />
         </state>
       </provider>
