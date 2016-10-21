@@ -178,5 +178,5 @@ table, th, td {
     color: cornflowerblue;
     bottom: 2px;
     float: left;
-    position: absolute;
+    position: fixed;
 }
