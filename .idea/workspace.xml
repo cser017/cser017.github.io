@@ -76,7 +76,7 @@
         <entry file="file://$PROJECT_DIR$/3) Work Experience.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+              <caret line="25" column="79" selection-start-line="25" selection-start-column="79" selection-end-line="25" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -329,15 +329,15 @@
       <workItem from="1476297117191" duration="1290000" />
       <workItem from="1476820382146" duration="221000" />
       <workItem from="1477084947839" duration="29000" />
-      <workItem from="1477273445889" duration="133000" />
+      <workItem from="1477273445889" duration="204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2819000" />
+    <option name="totallyTimeSpent" value="2890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="785" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="785" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27896994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -785,7 +785,7 @@
     <entry file="file://$PROJECT_DIR$/3) Work Experience.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+          <caret line="25" column="79" selection-start-line="25" selection-start-column="79" selection-end-line="25" selection-end-column="79" />
           <folding />
         </state>
       </provider>
