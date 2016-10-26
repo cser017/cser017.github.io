@@ -1,6 +1,5 @@
 .button {
     background-image: url("./image/bg.jpg");
-    background-color: rgb(186, 255, 68);
     border: none;
     color: white;
     text-align: center;
@@ -100,7 +99,6 @@ h2 {
     font-weight: bolder;
     padding-bottom: 10px;
     padding-top: 10px;
-    background-color: rgb(186, 255, 68);
     background-image: url("./image/bg.jpg");
 }
 
@@ -141,8 +139,10 @@ body{
 
 table, th, td {
     text-align: center;
+    border-color: greenyellow;
 
 }
+
 
 a {
     color: cornflowerblue;
