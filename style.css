@@ -1,11 +1,14 @@
 .button {
     background-image: url("./image/bg.jpg");
-    border: none;
+    border: 2px solid lightskyblue;
+    padding: 5px 25px;
     color: white;
     text-align: center;
     text-decoration: none;
+    text-shadow: 0 -1px 0 white;
     font-size: 40px;
     cursor: pointer;
+    box-shadow: 0 1px 0 white;
 }
 
 #top, #bottom{
@@ -114,11 +117,15 @@ h2 {
 
 
 #ResumeButt{
+    color: white;
     width: 450px;
     position: absolute;
     font-size: 20px;
+    font-family: Times;
+    text-shadow: 0 -1px 0 white;
     margin-bottom: 10px;
     background: rgb(186, 255, 68)
+    box-shadow: 0 1px 0 white;
 }
 
 .question{
