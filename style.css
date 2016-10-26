@@ -122,9 +122,8 @@ h2 {
     position: absolute;
     font-size: 20px;
     font-family: Times;
-    text-shadow: 0 -1px 0 white;
     margin-bottom: 10px;
-    background: rgb(186, 255, 68)
+    background: rgb(186, 255, 68);
     box-shadow: 0 1px 0 white;
 }
 
