@@ -118,7 +118,7 @@ h2 {
 
 #ResumeButt{
     color: white;
-    width: 450px;
+    width: 40%;
     position: absolute;
     font-size: 20px;
     font-family: Times;
@@ -132,7 +132,8 @@ h2 {
 }
 
 .contents{
-    font-size: 20px;
+    font-family: "Trebuchet MS";
+    font-size: 25px;
 }
 
 .title{
@@ -147,6 +148,7 @@ body{
 table, th, td {
     text-align: center;
     border-color: greenyellow;
+    font-family: "Trebuchet MS";
 
 }
 
@@ -166,6 +168,7 @@ a {
     position: fixed;
     padding-left: 3%;
     float: left;
+    width: 35vh;
 
 }
 
@@ -175,7 +178,6 @@ a {
 }
 
 .logo{
-
     width: 20%;
     float: left;
     margin-top: -420px;
@@ -183,9 +185,9 @@ a {
 
 .text{
     float: right;
-    padding-right: 7%;
+    padding-right: 7vw;
     position:absolute;
-    margin-left: 25%;
+    margin-left: 25vw;
 }
 
 .center{
