@@ -194,6 +194,7 @@ a {
 }
 
 .copyright{
+    font-size: 10px;
     color: cornflowerblue;
     bottom: 2px;
     float: left;
